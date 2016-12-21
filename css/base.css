@@ -1,9 +1,5 @@
 .navbar-brand {}
 
-.navbar {
-    background-color: #2C2A29;
-}
-
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
 }
